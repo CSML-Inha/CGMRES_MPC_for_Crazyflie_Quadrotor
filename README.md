@@ -1,4 +1,4 @@
-# Project Title
+# CGMRES_MPC_for_Crazyflie_Quadrotor
 
 This project is implemented in **C language**.  
 It has been developed with reference to **TinyMPC** and **C/GMRES** implementations.
