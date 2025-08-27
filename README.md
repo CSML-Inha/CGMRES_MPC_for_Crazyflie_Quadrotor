@@ -2,6 +2,7 @@
 
 This project is implemented in **C language**.  
 It has been developed with reference to **TinyMPC** and **C/GMRES** implementations.
+[Demo vedio](https://www.youtube.com/watch?v=UUX3CE77MpA)
 
 ## References
 - [TinyMPC](https://github.com/TinyMPC/TinyMPC)
